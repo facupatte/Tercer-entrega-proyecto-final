@@ -1,0 +1,33 @@
+[ 
+    {
+        "id": 1,
+        "tipo": "Eléctrica",
+        "precio": 500,
+        "img": "./Imagenes/electrica.webp",
+        "cantidad": 1
+    },
+
+    {
+        "id": 2,
+        "tipo": "Electroacústica",
+        "precio": 400,
+        "img": "./Imagenes/electroacustica.webp",
+        "cantidad": 1
+    },    
+
+    {
+        "id": 3,
+        "tipo": "Acústica",
+        "precio": 300,
+        "img": "./Imagenes/acustica.webp",
+        "cantidad": 1
+    },
+
+    {
+        "id": 4,
+        "tipo": "Criolla",
+        "precio": 150,
+        "img": "./Imagenes/Clasica.webp",
+        "cantidad": 1
+    }
+]
